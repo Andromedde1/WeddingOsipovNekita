@@ -5,7 +5,7 @@
  */
 window.INVITE_CONFIG = {
   /** Строки на обложке */
-  coverLine1: 'Некита Осипова',
+  coverLine1: 'Никита Осипов',
   coverLine2: 'Мы приглашаем тебя',
   coverLine3: 'на нашу свадьбу',
 
